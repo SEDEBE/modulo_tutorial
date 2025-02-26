@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- Menú principal -->
+    <menuitem id="cs_menu" name="CSskins" sequence="1"/>
+
+    <!-- Submenú de skins -->
+    <menuitem id="cs_skins_menu" name="Skins" parent="cs_menu" action="action_skin_list"/>
+
+    <!-- Acción para mostrar las skins -->
+    <record id="action_skin_list" model="ir.actions.act_window">
+        <field name="name">Skins</field>
+        <field name="res_model">cs.skin</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+</odoo>

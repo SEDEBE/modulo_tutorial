@@ -1,0 +1,46 @@
+<odoo>
+    <record id="skin_ak47_redline" model="cs.skin">
+        <field name="name">AK-47 | Redline</field>
+        <field name="price">45.99</field>
+        <field name="image">/modulo_tutorial/src/ak47-redline.jpeg</field>
+    </record>
+
+    <record id="skin_awp_dragonlore" model="cs.skin">
+        <field name="name">AWP | Dragon Lore</field>
+        <field name="price">10000.00</field>
+        <field name="image">/modulo_tutorial/src/dragolore.jpeg</field>
+    </record>
+      <record id="skin_ak47_neonrider" model="cs.skin">
+        <field name="name">AK-47 | Neon Rider</field>
+        <field name="price">45.99</field>
+        <field name="image">/modulo_tutorial/src/akneonrider.jpeg</field>
+    </record>
+
+    <record id="skin_m4a1_howl" model="cs.skin">
+        <field name="name">M4A4 | Howl</field>
+        <field name="price">1200.00</field>
+        <field name="image">/modulo_tutorial/src/howl.jpeg</field>
+    </record>
+      <record id="skin_m4a1s_hyperbeast" model="cs.skin">
+        <field name="name">M4A1-S | Hyperbeast</field>
+        <field name="price">35.89</field>
+        <field name="iamge">/modulo_tutorial/src/m4a1shyperbeast</field>
+    </record>
+
+    <record id="skin_awp_gungir" model="cs.skin">
+        <field name="name">AWP | Gungir</field>
+        <field name="price">12000.00</field>
+        <field name="image">/modulo_tutorial/src/gungir.jpeg</field>
+    </record>
+      <record id="skin_usps_killconfirmed" model="cs.skin">
+        <field name="name">USP-S | Kill Confirmed</field>
+        <field name="price">30.00</field>
+        <field name="image">/modulo_tutorial/src/killconfirmed.jpeg</field>
+    </record>
+
+    <record id="skin_glock18_fade" model="cs.skin">
+        <field name="name">Glock-18 | Fade</field>
+        <field name="price">1200.00</field>
+        <field name="image">/modulo_tutorial/src/glockdade.jpeg</field>
+    </record>
+</odoo>
