@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
     <!--Vista en lista-->
-    <record id="view_skin_tree" model="ir.ui.view">
-        <field name="name">cs.skin.tree</field>
+    <record id="view_skin_list" model="ir.ui.view">
+        <field name="name">cs.skin.list</field>
         <field name="model">cs.skin</field>
         <field name="arch" type="xml">
-            <tree>
+            <list>
                 <field name="image"/>
                 <field name="name"/>
                 <field name="price" widget="image"/>
-            </tree>
+            </list>
         </field>
     </record>
     <!--Vista en Formulario-->

@@ -24,7 +24,7 @@
       <record id="skin_m4a1s_hyperbeast" model="cs.skin">
         <field name="name">M4A1-S | Hyperbeast</field>
         <field name="price">35.89</field>
-        <field name="iamge">/modulo_tutorial/src/m4a1shyperbeast</field>
+        <field name="iamge">/modulo_tutorial/src/m4a1shyperbeast.jpeg</field>
     </record>
 
     <record id="skin_awp_gungir" model="cs.skin">
